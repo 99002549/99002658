@@ -9,8 +9,6 @@
 
 <!-- [![Subhrosil Maiti's DEV Badge](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/subhrosilmaiti) -->
 
-<!--![Profile views](https://gpvc.arturio.dev/[99002658])-->
-
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=99002658 alt=99002658 /> </p>
