@@ -19,7 +19,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=99002658&layout=compact)](https://github.com/99002658/github-readme-stats)
 
 
-Here are some ideas to get you started:
 <!--
 - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning CSS & Javascript.
@@ -27,7 +26,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: Mail>> maitisubhrosil@gmail.com
+<!--
+- 😄 Pronouns: -->
+- ⚡ Fun fact: No number from 1 to 999 includes the letter "a" in its word form.
 
